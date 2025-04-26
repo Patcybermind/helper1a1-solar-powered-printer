@@ -11,7 +11,7 @@ bottom shelf fits batteries
 
 ## download:
 printables link: 
-
+https://www.printables.com/model/1277710-solar-panel-holder-with-battery-and-electronics-co
 
 ## onshape:
 https://cad.onshape.com/documents/33a456b3e1163ff25b3fab13/w/8fb2f07da52171af49bf852c/e/595651fa83a99b7be75c338c?renderMode=0&uiState=680d30eed2bec423020dbc98
